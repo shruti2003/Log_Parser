@@ -3,6 +3,8 @@
 ## 📌 Project Overview  
 The **Log Parser** is a fully automated **log processing and analysis pipeline** designed to support **manual testing of new AMD silicon chips**. This system automates workload testing, log parsing, and performance data visualization, ensuring efficient and structured reporting for **AMD performance engineers**.  
 
+Note: Unable to add the code details to respect the companies data / privacy
+
 ### 🔍 Key Features  
 ✅ **ADLS Log Dumping** - Automated log collection from **Azure Data Lake Storage (ADLS)**  
 ✅ **Workload Automation** - Runs **MLC, DRAM Latency, STREAM** workloads on new silicon chips  
